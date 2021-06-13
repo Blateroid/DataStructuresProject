@@ -5,10 +5,7 @@
  */
 package dataproject1;
 import java.util.*;
-/**
- *
- * @author Chelsey
- */
+
 public class BinaryTree {
     Scanner scan = new Scanner(System.in);
     //String ans;
