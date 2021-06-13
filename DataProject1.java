@@ -7,10 +7,7 @@ package dataproject1;
 
 import java.util.Scanner;
 import java.util.*;
-/**
- *
- * @author Chelsey
- */
+
 public class DataProject1 extends BinaryTree{
 
     /**
