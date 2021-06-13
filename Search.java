@@ -6,10 +6,7 @@
 package dataproject1;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
-/**
- *
- * @author Chelsey
- */
+
 public class Search{
      Product[] items = new Product[1];
      Random rand = new Random();
