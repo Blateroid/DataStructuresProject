@@ -5,10 +5,7 @@
  */
 package dataproject1;
 import java.util.*;
-/**
- *
- * @author Chelsey
- */
+
 public class Product {
     public static LinkedList<String> IDnumber = new LinkedList<String>();
     public static LinkedList<String> IDnumberUnsealed = new LinkedList<String>();
